@@ -1,10 +1,13 @@
 _repo: The-Colloquies-of-Edward-Osborne-Citizen-and-Clothworker-of-London_51557
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Jellicoe, John
     gutenberg_agent_id: '8935'
     url: http://www.gutenberg.org/2009/agents/8935
+covers:
+- cover_type: archival
+  image_path: 51557-h/images/cover.jpg
 creator:
   author:
     agent_name: Manning, Anne
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5275
     wikipedia: http://en.wikipedia.org/wiki/Anne_Manning
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51557#The-Colloquies-of-Edward-Osborne-Citizen-and-Clothworker-of-London
 gutenberg_issued: '2016-03-25'
 gutenberg_type: Text
 identifiers:
